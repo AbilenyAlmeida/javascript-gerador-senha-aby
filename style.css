@@ -1,0 +1,17 @@
+:root{
+    --branco: white;
+    --cor-de-fundo: #52387c;
+    --fundo-senha: #8304fa;
+    --fundo-texto: #461d6d;
+    --borda: #0075FF;
+    }
+    
+body{
+    color: var(--branco);
+    background-color: var(--cor-de-fundo);
+}
+
+body{
+    color: white;
+    background-color: #00162E;
+}
